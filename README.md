@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RKDNN
+- 👀 I’m interested in Automation
+- 🌱 I’m currently studying an MSc in Data & Analytis
+- 📫 How to reach me @Arcadian on Discord
+- ⚡ Fun fact: GC on RL
